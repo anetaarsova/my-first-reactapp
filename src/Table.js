@@ -6,6 +6,7 @@ const TableHeader = () => {
             <tr>
                 <th>Name</th>
                 <th>Job</th>
+                <th>Remove</th>
             </tr>
         </thead>
     )
@@ -38,4 +39,4 @@ const Table = (props) => {
     
   }
   
-  export default Table
+  export default Table;
